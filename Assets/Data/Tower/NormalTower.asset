@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0a541455c93e974d85dbc485e11adce, type: 3}
+  m_Name: NormalTower
+  m_EditorClassIdentifier: 
+  brickPrefab: {fileID: 872247602801152527, guid: 844267ace60ab524d91316251c0dbcca,
+    type: 3}
+  height: 25
+  eachRot: 10
+  colors:
+  - {r: 0.2739854, g: 0.4433962, b: 0.37487224, a: 1}
+  - {r: 0.16233535, g: 0.6037736, b: 0.5864894, a: 1}

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e21e36f8b7d169428012ac2278fbcc9, type: 3}
+  m_Name: TankPlayer
+  m_EditorClassIdentifier: 
+  playerPrefab: {fileID: 506505642291183473, guid: a7f3b072ca1e8dc44868c559183b985e,
+    type: 3}
+  bulletPrefab: {fileID: 6255626309410341579, guid: 5c15fa7d5e96ec647af82b154e43a8b4,
+    type: 3}
+  speed: 10
