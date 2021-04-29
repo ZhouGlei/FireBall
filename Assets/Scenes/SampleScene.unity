@@ -1611,11 +1611,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: LogoUI
       objectReference: {fileID: 0}
-    - target: {fileID: 4699403131450911041, guid: e83eea0c440552643a51ea3651b64c2a,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e83eea0c440552643a51ea3651b64c2a, type: 3}
 --- !u!1001 &6275300094417710724
@@ -1977,6 +1972,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: FailedUI
+      objectReference: {fileID: 0}
+    - target: {fileID: 8943673548966008743, guid: e32035112d5bd034093e2ad75f4ed9a0,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e32035112d5bd034093e2ad75f4ed9a0, type: 3}
